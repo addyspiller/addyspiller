@@ -32,8 +32,8 @@ Full prototype for a B2B real estate analytics platform — landing page,
 auth flow, mock Stripe checkout, and a dashboard with zoning compatibility
 analysis, environmental risk assessment (FEMA + NWI data), and PDF report
 export. Built to gather prospective client input and as a dev team handoff
-spec.
-`React · TypeScript · Supabase · Recharts · Vercel`
+spec. Also built the public-facing marketing site to communicate the platform's vision while the product is in development.
+HTML · CSS · React · TypeScript · Supabase · Recharts · Vercel
 
 **Support Intake Form**
 Customer support tool for a recycling platform. Progressive disclosure
