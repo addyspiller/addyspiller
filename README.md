@@ -35,7 +35,7 @@ This GitHub reflects an active building practice. Most repos are private client 
 <tr>
 <td>AI engine for zoning analysis and real estate feasibility</td>
 <td>Full prototype + production marketing site for a B2B real estate analytics platform. Dashboard with zoning compatibility analysis, environmental risk assessment (FEMA + NWI data), and PDF export.</td>
-<td><ul><li>Prospective client input</li><li>Dev team handoff spec</li></ul></td>
+<td><ul><li>Prospective client feedback</li><li>Dev handoff </li></ul></td>
 <td><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Recharts</code> <code>Vercel</code></td>
 </tr>
 </tbody>
@@ -56,7 +56,7 @@ This GitHub reflects an active building practice. Most repos are private client 
 <tr>
 <td>AI-powered insurance policy analysis for small business owners</td>
 <td>Frontend for a fintech SaaS that uses Claude API to analyze insurance renewal PDFs, classify changes by risk level, and generate plain-language explanations for SMB owners.</td>
-<td><ul><li>Validate functionality</li><li>Gather prospective client feedback</li></ul></td>
+<td><ul><li>Validate functionality</li><li>Prospective client feedback</li></ul></td>
 <td><code>Next.js</code> <code>TypeScript</code> <code>Shadcn/UI</code> <code>Vercel</code></td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ This GitHub reflects an active building practice. Most repos are private client 
 <tr>
 <td>Digital platform for a NYC block association</td>
 <td>Public website and authenticated admin dashboard built to replace an existing site. Member management, event RSVPs, and dues collection.</td>
-<td><ul><li>Replace legacy site</li><li>Member self-service</li></ul></td>
+<td><ul><li>Replace legacy site</li></ul></td>
 <td><code>Next.js</code> <code>Supabase</code> <code>Stripe</code> <code>Vercel</code></td>
 </tr>
 </tbody>
