@@ -93,15 +93,15 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 
 **[Pret-à-Parler](https://github.com/addyspiller/pret-a-parler-readme)**
 A French language learning app built for one user — my dad — targeting C1 proficiency. Real-time pitch detection and pronunciation feedback, YouTube transcript integration for cultural immersion, and on-device ML via HuggingFace Transformers. He opened it to his French class for broader feedback — a few real users, real validation.
-`TypeScript` · `React` · `Claude API` · `Whisper` · `HuggingFace Transformers` · `WaveSurfer.js` · `Turso`
+`TypeScript` · `React` · `Claude API` · `Whisper` · `HuggingFace Transformers` · `WaveSurfer.js` · `Turso` · `Netlify`
 
 **[NYC Recycle Smart](https://github.com/addyspiller/nyc-recycle-smart-readme)**
 Snap a photo of any item, get instant NYC-specific disposal instructions. Built after learning that 33% of NYC trash is recyclable but ends up in landfill. Constructed in 4 days.
-`JavaScript` · `Gemini Vision API`
+`JavaScript` · `Gemini Vision API` · `Netlify`
 
 **[Aperture](https://github.com/addyspiller/aperture-readme)**
 A privacy-first behavioral pattern interpreter. Surfaces insights from transaction and location data without judgment, scoring, or optimization. Raw coordinates discarded at parse time. Active development.
-`Python` · `FastAPI` · `PostgreSQL` · `React` · `TypeScript` · `Google OAuth`
+`Python` · `FastAPI` · `PostgreSQL` · `React` · `TypeScript` · `Google OAuth` · `Netlify`
 
 ---
 
