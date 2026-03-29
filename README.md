@@ -58,7 +58,7 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 <tr>
 <td>Life cycle and impact assessment analytics for sustainability teams</td>
 <td>A dev shop was stalled with no direction. Prototype aligned the internal team on what they actually wanted to build — the dev shop picked it up and ran with it. Also used in early customer discovery calls.</td>
-<td><code>React</code> <code>TypeScript</code> <code>Vite</code></td>
+<td><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Netlify</code></td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 <tr>
 <td>Professional development and coaching for individuals and organizations</td>
 <td>Surfaced gaps in the B2B offering and friction points in the existing B2C flow. Gave leadership the clarity to know where to focus next and prioritize tech spend.</td>
-<td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+<td><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Netlify</code></td>
 </tr>
 <tr>
 <td>Digital platform for a NYC block association</td>
