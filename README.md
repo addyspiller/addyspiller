@@ -28,7 +28,7 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 </tr>
 <tr>
 <td>AI-powered deposit return and recycling technology</td>
-<td>Reframed from a vague comms request after discovery revealed the real pain point: unmanaged inbound support. Built a progressive disclosure support tool — instant answers first, forms only when needed — that gave the team a shared POV on where to focus.</td>
+<td>Reframed from a vague comms request after discovery revealed the real pain point: unmanaged inbound support. Built a progressive disclosure support tool — instant answers first, forms only when needed — that gave the team a shared POV on what to build.</td>
 <td><code>React</code> <code>TypeScript</code> <code>Netlify</code></td>
 </tr>
 <tr>
@@ -53,12 +53,12 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 <tr>
 <td>AI-powered insurance policy analysis for small business owners</td>
 <td>Frontend demo the CEO now uses in partner conversations to show how the platform supports small business owners. Also aligned the internal team on core functionality before any engineering investment.</td>
-<td><code>Next.js</code> <code>TypeScript</code> <code>Shadcn/UI</code> <code>Vercel</code></td>
+<td><code>Next.js</code> <code>TypeScript</code> <code>Shadcn/UI</code> <code>Clerk</code> <code>Vercel</code></td>
 </tr>
 <tr>
 <td>Life cycle and impact assessment analytics for sustainability teams</td>
-<td>A dev shop was stalled with no direction. Prototype aligned the internal team on what they actually wanted to build — the dev shop picked it up and extended it. Also used in early customer discovery calls.</td>
-<td><code>React</code> <code>TypeScript</code> <code>Supabase</code></td>
+<td>A dev shop was stalled with no direction. Prototype aligned the internal team on what they actually wanted to build — the dev shop picked it up and ran with it. Also used in early customer discovery calls.</td>
+<td><code>React</code> <code>TypeScript</code> <code>Vite</code></td>
 </tr>
 </tbody>
 </table>
@@ -76,7 +76,7 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 <tbody>
 <tr>
 <td>Professional development and coaching for individuals and organizations</td>
-<td>Surfaced gaps in the B2B offering and friction points in the existing B2C flow. Gave leadership the clarity to know where to focus next.</td>
+<td>Surfaced gaps in the B2B offering and friction points in the existing B2C flow. Gave leadership the clarity to know where to focus next and prioritize tech spend.</td>
 <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
 </tr>
 <tr>
@@ -91,13 +91,13 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 
 ## Personal builds
 
-**[Pret-à-Parler](https://github.com/addyspiller/pret-a-parler)**
+**[Pret-à-Parler](https://github.com/addyspiller/pret-a-parler-readme)**
 A French language learning app built for one user — my dad — targeting C1 proficiency. Real-time pitch detection and pronunciation feedback, YouTube transcript integration for cultural immersion, and on-device ML via HuggingFace Transformers. He opened it to his French class for broader feedback — a few real users, real validation.
-`TypeScript` · `React` · `HuggingFace` · `WaveSurfer.js`
+`TypeScript` · `React` · `Claude API` · `Whisper` · `HuggingFace Transformers` · `WaveSurfer.js` · `Turso`
 
-**[NYC Recycle Smart](https://github.com/addyspiller/nyc-recycle-smart)**
+**[NYC Recycle Smart](https://github.com/addyspiller/nyc-recycle-smart-readme)**
 Snap a photo of any item, get instant NYC-specific disposal instructions. Built after learning that 33% of NYC trash is recyclable but ends up in landfill. Constructed in 4 days.
-`JavaScript` · `React` · `Google Vision`
+`JavaScript` · `Gemini Vision API`
 
 **[Aperture](https://github.com/addyspiller/aperture-readme)**
 A privacy-first behavioral pattern interpreter. Surfaces insights from transaction and location data without judgment, scoring, or optimization. Raw coordinates discarded at parse time. Active development.
@@ -112,8 +112,8 @@ A privacy-first behavioral pattern interpreter. Surfaces insights from transacti
 | Frontend | TypeScript · React · Next.js · Vite · Tailwind CSS · Shadcn/UI |
 | Backend | Python · FastAPI |
 | Data | PostgreSQL · Supabase · libSQL |
-| APIs | Claude API · Google Vision · Google Places · ArcGIS · HuggingFace · WaveSurfer.js · Clerk · Stripe · Google OAuth |
-| Deploy | Netlify · Vercel |
+| APIs | Claude API · Gemini · Google Places · ArcGIS · HuggingFace · WaveSurfer.js · Whisper · Clerk · Stripe · Google OAuth |
+| Deploy | Netlify · Vercel · Lovable |
 
 ---
 
