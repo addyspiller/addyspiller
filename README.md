@@ -10,6 +10,34 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 
 ## Client work
 
+### Fintech & Analytics
+
+<table width="100%">
+<thead>
+<tr>
+<th width="33%">Client</th>
+<th width="34%">The Work & What It Unlocked</th>
+<th width="33%">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Measurement layer for self-hosted AI infrastructure</td>
+<td>Personalized outbound without the research grind. Multi-agent pipeline handles prospect research, synthesis, QA, and email drafting. ICP model focused effort on best-fit leads.</td>
+<td><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Claude API</code> <code>Tavily</code> <code>Netlify</code></td>
+</tr><tr>
+<td>AI-powered insurance policy analysis for small business owners</td>
+<td>Frontend demo the CEO now uses in partner conversations to show how the platform supports small business owners. Also aligned the internal team on core functionality before any engineering investment.</td>
+<td><code>Next.js</code> <code>TypeScript</code> <code>Shadcn/UI</code> <code>Clerk</code> <code>Vercel</code></td>
+</tr>
+<tr>
+<td>Life cycle and impact assessment analytics for sustainability teams</td>
+<td>A dev shop was stalled with no direction. Prototype aligned the internal team on what they actually wanted to build — the dev shop picked it up and ran with it. Also used in early customer discovery calls.</td>
+<td><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Netlify</code></td>
+</tr>
+</tbody>
+</table>
+
 ### Climate & Sustainability
 
 <table width="100%">
@@ -35,30 +63,6 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 <td>AI engine for zoning analysis and real estate feasibility</td>
 <td>Full prototype and production marketing site. Used directly for client discovery conversations. Spec was detailed enough that the dev team didn't need user stories — they built from the prototype.</td>
 <td><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Recharts</code> <code>Vercel</code></td>
-</tr>
-</tbody>
-</table>
-
-### Fintech & Analytics
-
-<table width="100%">
-<thead>
-<tr>
-<th width="33%">Client</th>
-<th width="34%">The Work & What It Unlocked</th>
-<th width="33%">Stack</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>AI-powered insurance policy analysis for small business owners</td>
-<td>Frontend demo the CEO now uses in partner conversations to show how the platform supports small business owners. Also aligned the internal team on core functionality before any engineering investment.</td>
-<td><code>Next.js</code> <code>TypeScript</code> <code>Shadcn/UI</code> <code>Clerk</code> <code>Vercel</code></td>
-</tr>
-<tr>
-<td>Life cycle and impact assessment analytics for sustainability teams</td>
-<td>A dev shop was stalled with no direction. Prototype aligned the internal team on what they actually wanted to build — the dev shop picked it up and ran with it. Also used in early customer discovery calls.</td>
-<td><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Netlify</code></td>
 </tr>
 </tbody>
 </table>
@@ -91,6 +95,10 @@ Want to talk through a project or discuss my approach? [Grab time here](https://
 
 ## Personal builds
 
+**[Superintendent Evaluation Tool](https://github.com/addyspiller/superintendent-search-readme)**
+Built for my co-op board in the process of hiring a building superintendent. In the past, candidates had been assessed a little differently and there was no record of why anyone was turned down. Hard requirements filter on import, resumes are analyzed against building-specific criteria, and every candidate is scored on the same rubric with references and interview notes attached. The board ends up with a defensible record instead of a group memory.
+`React` · `Vite` · `Firebase Auth` · `Firestore` · `Netlify Functions` · `Claude API`
+
 **[Pret-à-Parler](https://github.com/addyspiller/pret-a-parler-readme)**
 A French language learning app built for one user — my dad — targeting C1 proficiency. Real-time pitch detection and pronunciation feedback, YouTube transcript integration for cultural immersion, and on-device ML via HuggingFace Transformers. He opened it to his French class for broader feedback — a few real users, real validation.
 `TypeScript` · `React` · `Claude API` · `Whisper` · `HuggingFace Transformers` · `WaveSurfer.js` · `Turso` · `Netlify`
@@ -112,8 +120,8 @@ A privacy-first behavioral pattern interpreter. Surfaces insights from transacti
 | Frontend | TypeScript · React · Next.js · Vite · Tailwind CSS · Shadcn/UI |
 | Backend | Python · FastAPI |
 | Data | PostgreSQL · Supabase · libSQL |
-| APIs | Claude API · Gemini · Google Places · ArcGIS · HuggingFace · WaveSurfer.js · Whisper · Clerk · Stripe · Google OAuth |
-| Deploy | Netlify · Vercel · Lovable |
+| APIs | Claude API · Gemini · Google Places · ArcGIS · HuggingFace · WaveSurfer.js · Whisper · Clerk · Stripe · Google OAuth · Tavily|
+| Deploy | Netlify · Vercel |
 
 ---
 
