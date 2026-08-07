@@ -42,17 +42,23 @@ I also build products around problems I find interesting. It keeps me close to t
 
 ### [Superintendent Evaluation Tool](https://github.com/addyspiller/superintendent-evaluation-tool-readme)
 
-Built while my co-op board was hiring a building superintendent. Previous candidates had been evaluated inconsistently, and there was no durable record of why someone advanced or was rejected.
+Built while my co-op board was hiring a building superintendent. Previous candidates had been evaluated inconsistently, with no durable record of why someone advanced or was rejected.
 
-I designed a workflow that filters hard requirements upfront, evaluates every resume against the same building-specific criteria, and keeps interview notes, references, and scoring together. The goal wasn't to let AI choose a candidate. It was to give the board a consistent, defensible decision process instead of relying on group memory.
+I designed a workflow that filters hard requirements upfront, evaluates every resume against the same building-specific criteria, and keeps interviews, references, and scoring together. AI supports the evaluation, but the board makes the decision.
 
-We used it throughout the hiring process, and it made the evaluation substantially more structured than anything the board had used before. Our property manager saw enough value in the approach that she wanted to use it for other buildings she manages.
+We used it throughout the hiring process, creating a much more structured approach. Our property manager saw enough value in it that she wanted to use it for other buildings she manages.
 
 **Built with:** React · Vite · Firebase · Claude API
 
 ### [Aperture](https://github.com/addyspiller/aperture-readme) 
 
-A privacy-first product for noticing patterns in your own behavior. The product looks for repetition in transaction and location data, then surfaces observations without turning them into scores, goals, or judgments. Those constraints are intentional: the goal is awareness, not optimization. Privacy is part of the product architecture, not just the policy. Raw location coordinates are discarded during processing rather than stored for later use. Currently in active development.
+A privacy-first product for noticing patterns in your own behavior.
+
+It looks for repetition in transaction and location data, then surfaces observations without turning them into scores, goals, or judgments. Those constraints are intentional: the goal is awareness, not optimization.
+
+Privacy is part of the product architecture, not just the policy. Raw location coordinates are discarded during processing rather than stored for later use.
+
+Currently in active development.
 
 **Built with:** Python · FastAPI · PostgreSQL · React · TypeScript
 
@@ -92,7 +98,7 @@ I use whatever gets us to a useful answer fastest. Most of my work is built with
 
 ## Get in touch
 
-- [addy@alignproductstudio.com](mailto:addy@alignproductstudio.com)
-- [alignproductstudio.com](https://alignproductstudio.com)
-- [linkedin.com/in/addyspiller](https://linkedin.com/in/addyspiller)
-- [Book time with me](https://calendly.com/addyspiller)
+[Book a call](https://calendly.com/addyspiller) 
+[Align Product Studio](https://alignproductstudio.com) 
+[LinkedIn](https://linkedin.com/in/addyspiller) 
+[Email](mailto:addy@alignproductstudio.com)
