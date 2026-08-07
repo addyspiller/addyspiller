@@ -11,6 +11,8 @@ Want to talk through a product challenge? [Book a call](https://calendly.com/add
 ---
 ## Selected client work
 
+The examples below show how I work across different stages of a product: clarifying the product strategy, bringing an idea to life, and helping an existing product evolve.
+
 ### Clarifying what to build
 
 | Product challenge | What I did + what it enabled |
@@ -98,7 +100,7 @@ I use whatever gets us to a useful answer fastest. Most of my work is built with
 
 ## Get in touch
 
-[Book a call](https://calendly.com/addyspiller) 
-[Align Product Studio](https://alignproductstudio.com) 
-[LinkedIn](https://linkedin.com/in/addyspiller) 
-[Email](mailto:addy@alignproductstudio.com)
+- [Book a call](https://calendly.com/addyspiller)
+- [Align Product Studio](https://alignproductstudio.com)
+- [LinkedIn](https://linkedin.com/in/addyspiller)
+- [Email](mailto:addy@alignproductstudio.com)
