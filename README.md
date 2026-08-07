@@ -40,7 +40,7 @@ Want to talk through a product challenge? [Book a call](https://calendly.com/add
 
 I also build products around problems I find interesting. It keeps me close to the craft and gives me a place to test new product ideas, AI capabilities, and interaction patterns without waiting for a client brief.
 
-### [Superintendent Evaluation Tool](https://github.com/addyspiller/superintendent-search-readme)
+### [Superintendent Evaluation Tool](https://github.com/addyspiller/superintendent-evaluation-tool-readme)
 
 Built while my co-op board was hiring a building superintendent. Previous candidates had been evaluated inconsistently, and there was no durable record of why someone advanced or was rejected.
 
@@ -49,6 +49,12 @@ I designed a workflow that filters hard requirements upfront, evaluates every re
 We used it throughout the hiring process, and it made the evaluation substantially more structured than anything the board had used before. Our property manager saw enough value in the approach that she wanted to use it for other buildings she manages.
 
 **Built with:** React · Vite · Firebase · Claude API
+
+### [Aperture](https://github.com/addyspiller/aperture-readme) 
+
+A privacy-first product for noticing patterns in your own behavior. The product looks for repetition in transaction and location data, then surfaces observations without turning them into scores, goals, or judgments. Those constraints are intentional: the goal is awareness, not optimization. Privacy is part of the product architecture, not just the policy. Raw location coordinates are discarded during processing rather than stored for later use. Currently in active development.
+
+**Built with:** Python · FastAPI · PostgreSQL · React · TypeScript
 
 ### [Prêt-à-Parler](https://github.com/addyspiller/pret-a-parler-readme)
 
@@ -67,18 +73,6 @@ NYC recycling rules are surprisingly difficult to apply in the moment. I wanted 
 I built the first version in four days to see whether the interaction was useful enough to make a confusing civic process feel simple.
 
 **Built with:** JavaScript · Gemini Vision API · Netlify
-
-### [Aperture](https://github.com/addyspiller/aperture-readme)
-
-A privacy-first product for noticing patterns in your own behavior.
-
-The product looks for repetition in transaction and location data, then surfaces observations without turning them into scores, goals, or judgments. Those constraints are intentional: the goal is awareness, not optimization.
-
-Privacy is part of the product architecture, not just the policy. Raw location coordinates are discarded during processing rather than stored for later use.
-
-Currently in active development.
-
-**Built with:** Python · FastAPI · PostgreSQL · React · TypeScript
 
 ---
 
